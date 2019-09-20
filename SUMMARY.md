@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Another Page](untitled.md)
+* [Another Page](another-page.md)
+* [UntitBlogled](untitblogled.md)
 
