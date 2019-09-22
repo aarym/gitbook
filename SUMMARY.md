@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Creating a website... the options](README.md)
 * [Another Page](another-page.md)
 * [UntitBlogled](untitblogled.md)
 
