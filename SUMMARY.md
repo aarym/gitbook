@@ -1,6 +1,13 @@
 # Table of contents
 
-* [Creating a website... the options](README.md)
-* [Another Page](another-page.md)
-* [UntitBlogled](untitblogled.md)
+* [Home](README.md)
+
+## Blog
+
+* [Creating a website](blog/creating-a-website.md)
+* [Blog Example](blog/blog-example.md)
+
+## API
+
+* [API Page](api/another-page.md)
 
